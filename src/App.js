@@ -22,7 +22,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hello WePloyo!
+            Hello WePloyos, we are going to build this together!! 
           </a>
         </header>
       </div>
